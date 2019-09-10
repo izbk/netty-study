@@ -44,7 +44,7 @@
                             <appendAssemblyId>false</appendAssemblyId>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.imooc.netty.ch12.connection.Server</mainClass>
+                                    <mainClass>org.study.netty.ch12.connection.Server</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
@@ -65,7 +65,7 @@
                             <appendAssemblyId>false</appendAssemblyId>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.imooc.netty.ch12.connection.Client</mainClass>
+                                    <mainClass>org.study.netty.ch12.connection.Client</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
